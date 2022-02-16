@@ -20,7 +20,7 @@
 #### - 회의록 접속 후 발언 내용을 포함한 필요 항목들 추출.
 #### - 같은 회수의 모든 회의를 날짜별로 반복.
 #### - 수집이 끝나면 하나의 데이터프레임으로 취합하여 csv 파일 생성.
-#### 코드 : [회의록 스크레이핑](https://github.com/Umhyunbin/Education_Committee/blob/6227bd1f4a70904236427f5f6b57249054414eab/%ED%9A%8C%EC%9D%98%EB%A1%9D_%EC%8A%A4%ED%81%AC%EB%A0%88%EC%9D%B4%ED%95%91.ipynb)       
+#### 코드 : [회의록 스크레이핑](https://github.com/Umhyunbin/Education_Committee/blob/abdad102eb788933da740d9bd3cd9b3db9c7b91c/%ED%9A%8C%EC%9D%98%EB%A1%9D_%EC%8A%A4%ED%81%AC%EB%A0%88%EC%9D%B4%ED%95%91.ipynb)       
 
 ### 2) 단어 빈도 분석
 #### 문장 -> 분석기 -> 명사 추출 -> 불용어 처리 -> 최종 단어 추출
