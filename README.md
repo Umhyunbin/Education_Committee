@@ -12,7 +12,8 @@
 ### 3 - 1) 단어 빈도 분석
 ### 3 - 2) 위원별 단어 빈도, 발언 수 분석
 ### 3 - 3) 주요 키워드 분석
-### 3 - 4) 감성 분석           
+### 3 - 4) 감성 분석            
+<img width="948" alt="스크린샷 2022-04-02 오전 1 06 44" src="https://user-images.githubusercontent.com/63771624/161301111-3e1b7ed6-df52-4f65-91fc-6f1f99bd211d.png">
 
 ## 3. 분석 과정
 ### 1) 회의록 스크레이핑
@@ -25,7 +26,7 @@
 ### 2) 단어 빈도 분석
 #### 문장 -> 분석기 -> 명사 추출 -> 불용어 처리 -> 최종 단어 추출
 #### 위와 같은 순서로 진행함.
-#### 코드 : [단어 빈도 분석](https://github.com/Umhyunbin/Education_Committee/blob/5c6f7d2f48b601db2d1391f6fd707f287d58f807/%EB%8B%A8%EC%96%B4%20%EB%B9%88%EB%8F%84%20%EB%B6%84%EC%84%9D.ipynb)        
+#### 코드 : [단어 빈도 분석](https://github.com/Umhyunbin/Education_Committee/blob/5c6f7d2f48b601db2d1391f6fd707f287d58f807/%EB%8B%A8%EC%96%B4%20%EB%B9%88%EB%8F%84%20%EB%B6%84%EC%84%9D.ipynb)      
 
 ### 3) 주요 키워드 분석
 #### 키워드 설정 -> 키워드 탐색 -> 문맥 추출 -> 키워드 정제
