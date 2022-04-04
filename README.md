@@ -24,7 +24,7 @@
 ### 2) 단어 빈도 분석
 #### 문장 -> 분석기 -> 명사 추출 -> 불용어 처리 -> 최종 단어 추출
 #### 위와 같은 순서로 진행함.
-#### 코드 : [단어 빈도 분석](https://github.com/Umhyunbin/Education_Committee/blob/5c6f7d2f48b601db2d1391f6fd707f287d58f807/%EB%8B%A8%EC%96%B4%20%EB%B9%88%EB%8F%84%20%EB%B6%84%EC%84%9D.ipynb)      
+#### 코드 : [단어 빈도 분석](https://github.com/Umhyunbin/Education_Committee/blob/a71f2088853bcb85c8fa730566f887aad3700fea/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%A5%20%E1%84%87%E1%85%B5%E1%86%AB%E1%84%83%E1%85%A9%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8.ipynb)      
 
 ### 3) 주요 키워드 분석
 #### 키워드 설정 -> 키워드 탐색 -> 문맥 추출 -> 키워드 정제
